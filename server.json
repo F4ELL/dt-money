@@ -31,6 +31,22 @@
       "type": "income",
       "createdAt": "2023-01-14T16:01:27.753Z",
       "id": 4
+    },
+    {
+      "description": "Compras no mercado",
+      "price": 240,
+      "category": "Mercado",
+      "type": "outcome",
+      "createdAt": "2023-01-14T16:34:34.843Z",
+      "id": 5
+    },
+    {
+      "description": "Roupas Shein",
+      "price": 550,
+      "category": "Roupas",
+      "type": "outcome",
+      "createdAt": "2023-01-14T23:22:56.868Z",
+      "id": 6
     }
   ]
 }
